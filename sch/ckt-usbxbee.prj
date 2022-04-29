@@ -1,0 +1,5 @@
+schematics ckt-usbxbee.sch
+output-name ../pcb/ckt-usbxbee
+skip-m4
+elements-dir ../../../footprints
+elements-dir ../fp
