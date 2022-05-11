@@ -932,7 +932,7 @@ Element["" "0805" "C1" "4.7uF" 620.00mil 455.00mil 78.50mil -31.50mil 0 100 ""]
 
 	)
 
-Element["" "0805" "C2" "0.1uF" 620.00mil 545.00mil 83.50mil -31.50mil 0 100 ""]
+Element["" "0805" "C2" "0.1uF" 620.00mil 545.00mil 78.50mil -31.50mil 0 100 ""]
 (
 	Pad[-35.43mil -3.93mil -35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
 	Pad[35.43mil -3.93mil 35.43mil 3.93mil 51.18mil 0.0000 57.18mil "2" "2" "square"]
@@ -968,7 +968,7 @@ Element["" "0805" "C3" "0.1uF" 590.43mil 945.00mil -21.50mil 33.50mil 0 100 ""]
 
 	)
 
-Element["" "1206" "D2" "unknown" 535.00mil 1145.00mil -31.50mil -101.50mil 0 122 ""]
+Element["" "1206" "D2" "unknown" 535.00mil 1145.00mil -31.50mil -101.50mil 0 99 ""]
 (
 	Pad[-59.05mil -11.81mil -59.05mil 11.81mil 51.18mil 20.00mil 57.18mil "CATHODE" "1" "square"]
 	Pad[59.05mil -11.81mil 59.05mil 11.81mil 51.18mil 20.00mil 57.18mil "ANODE" "2" "square"]
